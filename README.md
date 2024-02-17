@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 </div><br>
 
 ## 🔨 Stack 🔨
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://easyhomputer.tistory.com)
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
