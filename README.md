@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">📞 Contact 📞</h3>
+<h3 align="center">💫 Contact 💫</h3>
 <p align="center">
     <a href="mailto:dbalsdbals000@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📚 Stack 📚</h3>
+<h3 align="center">✨ Stack ✨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white"/></a>&nbsp
