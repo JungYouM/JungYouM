@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungYouM&layout=compact&theme=dracula)
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungYouM&hide=contribs,prs&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungYouM&hide_rank&theme=radical)
 
 
 ---
