@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
-<a href="s">
+
 <img src="https://github-readme-stats.vercel.app/api?username=JungYouM&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
