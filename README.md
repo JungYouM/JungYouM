@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=JungYouM&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🤖&font=Redressed&size=20)](https://git.io/typing-svg)
 
 
 <br>
