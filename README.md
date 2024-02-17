@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungYouM&theme=tokyonight&show_icons=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JungYouM&theme=tokyonight&show_icons=true" width="45%" />
 </a>
 <a href="s">
-  <img src="https://raw.githubusercontent.com/JungYouM/github-stats-transparent/output/generated/languages.svg" width="46%" />
+  <img src="https://raw.githubusercontent.com/JungYouM/github-stats-transparent/output/generated/languages.svg" width="45%" />
 </a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
