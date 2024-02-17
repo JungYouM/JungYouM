@@ -22,17 +22,18 @@ Here are some ideas to get you started:
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungYouM&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungYouM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
   <img src="https://raw.githubusercontent.com/JungYouM/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🤖&font=Redressed&size=20)](https://git.io/typing-svg)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
+
 
 
 <br>
