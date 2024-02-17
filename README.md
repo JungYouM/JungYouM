@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 </a>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+
 
 <br>
 
