@@ -39,13 +39,11 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    </a>
+<h3 align="center">📞 Contact 📞</h3>
+<p align="center">
     <a href="mailto:dbalsdbals000@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <h3 align="center">📚 Stack 📚</h3>
 <p align="center">
