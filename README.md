@@ -45,6 +45,8 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<br>
+
 <h3 align="center">📚 Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/></a>&nbsp
