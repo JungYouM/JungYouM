@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
 
 
-<br>
 ---
 
 <h3 align="center">📞 Contact 📞</h3>
