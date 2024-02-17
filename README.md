@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungYouM&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/JungYouM)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungYouM&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JungYouM&layout=compact&theme=synthwave)
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungYouM&hide=contribs,prs&theme=radical)
 
