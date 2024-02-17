@@ -30,12 +30,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungYouM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
 
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🤖&font=Redressed&size=20)](https://git.io/typing-svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
+
 
 
 
