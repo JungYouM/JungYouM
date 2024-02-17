@@ -56,4 +56,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/autodeskmaya-000000?style=for-the-  badge&logo=autodeskmaya&logoColor=white">
   <img src="https://img.shields.io/badge/adobephotoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/adobeillustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white">
-
+</div><br>
+</div>
