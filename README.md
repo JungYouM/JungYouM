@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <a href="s">
   <img src="https://raw.githubusercontent.com/JungYouM/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
 
 ---
