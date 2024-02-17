@@ -47,3 +47,9 @@ Here are some ideas to get you started:
 
 ## 🔨 Stack 🔨
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/autodeskmaya-000000?style=for-the-badge&logo=autodeskmaya&logoColor=white">
+<img src="https://img.shields.io/badge/adobephotoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/adobeillustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white">
