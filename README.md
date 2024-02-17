@@ -44,5 +44,5 @@ Here are some ideas to get you started:
     </a>
 </div><br>
 
-## 🔨 Once I've used 🔨
+## 🔨 Stack 🔨
 <code><img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch</code>
