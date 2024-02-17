@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🤖&font=Redressed&size=20)](https://git.io/typing-svg)
 
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/JungyouM)
-
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=JungYouM&theme=tokyonight&show_icons=true" width="45%" />
@@ -30,14 +28,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungYouM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
-
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🤖&font=Redressed&size=20)](https://git.io/typing-svg)
 
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
 
 
 <br>
