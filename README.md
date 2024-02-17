@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20YouMin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 
+---
+
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungYouM&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/JungYouM)
 
 
@@ -46,14 +48,12 @@ Here are some ideas to get you started:
 </div><br>
 
 ## 🔨 Stack 🔨
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/autodeskmaya-000000?style=for-the-badge&logo=autodeskmaya&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/adobephotoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-</a>
-<img src="https://img.shields.io/badge/adobeillustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+<div style="display:flex; flex-direction:row;">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/autodeskmaya-000000?style=for-the-  badge&logo=autodeskmaya&logoColor=white">
+  <img src="https://img.shields.io/badge/adobephotoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/adobeillustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+
