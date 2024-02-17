@@ -47,7 +47,8 @@ Here are some ideas to get you started:
     </a>
 </div><br>
 
-## 📚 Stack 📚
+<h3 align="center">📚 Stack 📚</h3>
+<p align="center">
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C++&logoColor=white">
