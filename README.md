@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungYouM&theme=tokyonight&show_icons=true" width="45%" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungYouM&show_icons=true&theme=dark)
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungYouM&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
