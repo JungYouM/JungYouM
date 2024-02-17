@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 
 <br>
+---
 
 <h3 align="center">📞 Contact 📞</h3>
 <p align="center">
