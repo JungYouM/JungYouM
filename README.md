@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🤖&font=Redressed&size=20)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JungYouM&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungYouM&theme=nord_dark)
 
